@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690979416690",
+    "project_id": "media-music-base",
+    "storage_bucket": "media-music-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690979416690:android:4e1a1e9148d05f218730eb",
+        "android_client_info": {
+          "package_name": "com.example.media_music_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxyEG1gpAEUr7u5FoTEf4DL8Cp4wJfh04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
