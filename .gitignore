@@ -1,3 +1,4 @@
 echo "Media_music/" >> .gitignore
 
 Media_music/
+Media_music/
